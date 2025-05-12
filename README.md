@@ -1,1 +1,1 @@
-# Foodies Restaurant website using HTML,CSS and Bootstrap 
+Foodies – A Responsive Food Ordering Website
